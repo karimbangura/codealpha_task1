@@ -160,7 +160,7 @@ body {
   align-items: center;
   gap: clamp(.25rem, 2vw, 1.5rem);
   padding: clamp(.75rem, 3vw, 2rem);
-  background: rgba(6, 10, 18, .96);
+  background: rgba(6, 10, 19, 0.96);
   opacity: 0;
   transition: opacity .3s var(--ease);
 }
