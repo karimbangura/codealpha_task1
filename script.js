@@ -14,7 +14,6 @@
   let current = 0;        
   let opener = null;      
 
- 
   const visibleCards = () =>
     cards.filter(c => !c.hidden && !c.classList.contains('is-out'));
 
