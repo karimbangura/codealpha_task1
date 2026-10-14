@@ -11,12 +11,12 @@ You can filter the photos by category, click any photo to open it full screen, a
 
 - Grid layout that adjusts to the screen size, from one column on a phone to four or more on a wide monitor
 - Category filters: All, Nature, City, Animals and Technology, each with a live photo count
-- Lightbox (full-screen viewer) with a caption and a counter like `3 / 12`
+- Lightbox (full screen viewer) with a caption and a counter like `3 / 12`
 - Next and previous buttons, and they wrap around, so after the last photo you go back to the first
 - Next and previous only go through the photos in the category you picked
 - Hover effects: the card lifts, the photo zooms in slightly, the border turns yellow and the caption slides up
 - Smooth transitions everywhere: cards fade when you filter, the lightbox fades in, and photos fade when you change them
-- Dark, high-contrast design with a yellow accent
+- Dark, high contrast design with a yellow accent
 - Works with the mouse, the keyboard and touch
 
 
