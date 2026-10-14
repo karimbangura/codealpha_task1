@@ -4,9 +4,8 @@ A responsive photo gallery I built with plain HTML, CSS and JavaScript. No libra
 
 You can filter the photos by category, click any photo to open it full screen, and flip through the set with buttons, arrow keys or a swipe.
 
-![alt text](<>>)
-<!-- Add a screenshot: save it as screenshot.png in this folder, then remove these comment marks -->
-<!-- ![Gallery screenshot](screenshot.png) -->
+![alt text](<image.png>)
+
 
 ## What it does
 
