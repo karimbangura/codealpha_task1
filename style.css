@@ -4,7 +4,7 @@
   --line: #4a5b78;
   --text: #f6f8fb;
   --muted: #c9d2e0;
-  --accent: #fcff5c;
+  --accent: #45bff8;
   --on-accent: #10141c;
   --radius: 14px;
   --ease: cubic-bezier(.22, .61, .36, 1);
@@ -34,7 +34,7 @@ body {
   font-weight: 800;
   line-height: 1.05;
   letter-spacing: -.02em;
-  color: rgb(255, 208, 0);
+  color: rgb(0, 162, 255);
 }
 
 .top p { margin: 0; max-width: 55ch; color: var(--muted); font-size: 1.05rem; }
